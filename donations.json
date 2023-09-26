@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "category": "Health",
+        "categoryBgColor": "#0052FF26",
+        "categoryButtonBgColor": "#0052FF33",
+        "image": "https://i.ibb.co/YBmRpKS/Health.png",
+        "title": "Clean water for children",
+        "titleColor": "#0052FF",
+        "description": "",
+        "amount": 290.00
+    },
+    {
+        "id": 2,
+        "category": "Education",
+        "categoryBgColor": "#FF444A26",
+        "categoryButtonBgColor": "#FF444A33",
+        "image": "https://i.ibb.co/9bWz6XJ/Education.png",
+        "title": "Good Education",
+        "titleColor": "#FF444A",
+        "description": "",
+        "amount": 376.00
+    },
+    {
+        "id": 3,
+        "category": "Clothing",
+        "categoryBgColor": "#79C23F26",
+        "categoryButtonBgColor": "#79C23F33",
+        "image": "https://i.ibb.co/x7pb2nz/Clothing.png",
+        "title": "Used Clothing Drive",
+        "titleColor": "#79C23F",
+        "description": "",
+        "amount": 126.00
+    },
+    {
+        "id": 4,
+        "category": "Food",
+        "categoryBgColor": "#F8714726",
+        "categoryButtonBgColor": "#F8714733",
+        "image": "https://i.ibb.co/4j2HsH8/Food.png",
+        "title": "Better Food for Everyone",
+        "titleColor": "#F87147",
+        "description": "",
+        "amount": 290.00
+    }
+]
